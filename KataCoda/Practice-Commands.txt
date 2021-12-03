@@ -1,0 +1,41 @@
+Find the NodePOrt exposed.
+
+export PORT=$(kubectl get svc first-deployment -o go-template='{{range.spec.ports}}{{if .nodePort}}{{.nodePort}}{{"\n"}}{{end}}{{end}}')
+echo "Accessing host01:$PORT"
+curl host01:$PORT
+
+
+Create a deployment and expose port 
+
+kubectl run httpexposed --image=katacoda/docker-http-server:latest --replicas=1 --port=80 --hostport=8001
+
+
+
+
+
+*****
+Istio Grafana Dashboard returns the total number of requests currently being processed, along with the number of errors and the response time of each call
+Visualise Cluster using Weave Scope
+Jaeger provides tracing information for each HTTP request
+The Service Graph will draw a dependency tree of how the system connects
+
+
+
+
+******
+Script to generate traffic for a application
+
+while true; do
+  curl -s https://2886795344-80-simba09b.environments.katacoda.com/productpage > /dev/null
+  echo -n .;
+  sleep 0.2
+done
+
+
+
+****
+Starting Weave scope locally
+
+kubectl port-forward -n weave "$(kubectl get -n weave pod --selector=weave-scope-component=app -o jsonpath='{.items..metadata.name}')" 4040
+
+
