@@ -2,9 +2,14 @@
 <p>I am Referring Acloud-Guru and preparing for CKAD exam which can help others</p>
 
 
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
 
 
-<table>
+<table style="width:80%">
   <tr>
     <th>Topics</th>
     <th>Descriptions</th>
@@ -14,7 +19,6 @@
     <td>Calico</td>
     <td>CNI downloaded Yaml file</td>
     <td>Please refer Calico recent file everytime</td>
-    <td></td>
   </tr>
     <tr>
     <td>ConfigMap</td>
