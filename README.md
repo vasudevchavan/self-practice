@@ -77,9 +77,9 @@
   </tr>
   <tr>
     <td>SecurityContext</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Labels">kubectl get pods -l 'app=sampleapp',environment=test or kubectl get pods -l 'app=sampleapp',environment=prod
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Labels">ConfigMap Yaml files are available
 <a><p>
         </td>
-    <td></td>
+    <td>kubectl get pods -l 'app=sampleapp',environment=test or kubectl get pods -l 'app=sampleapp',environment=prod</td>
   </tr>
 </table>
