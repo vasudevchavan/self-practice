@@ -17,7 +17,8 @@
   </tr>
   <tr>
     <td>Calico</td>
-    <td>CNI downloaded Yaml file</td>
+    <td><p><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Calico">ConfigMap Yaml files are available</a><p>
+    </td>
     <td>Please refer Calico recent file everytime</td>
   </tr>
     <tr>
