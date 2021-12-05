@@ -1,0 +1,19 @@
+apiVersion:  v1
+kind:  Pod
+metadata:
+  name:  containerlog
+spec:
+  containers:
+  - name:  containerlog
+    image:  busybox
+    command:
+      - sh
+      - -c
+      - |
+        i=o; 
+        while true;
+        do echo "$i: $(date)";
+        i=$((i+1));
+        sleep 1;
+        done
+
