@@ -28,49 +28,49 @@
   </tr>
     <tr>
     <td>Containerlogs</td>
-     <td><p><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+     <td><p><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Containerlogs">ConfigMap Yaml files are available<a><p>
      </td>
     <td></td>
   </tr>
     <tr>
     <td>Helm</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Helm">ConfigMap Yaml files are available<a><p>
         </td>
     <td></td>
   </tr>
     <tr>
     <td>Metrics</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Metrics">ConfigMap Yaml files are available<a><p>
         </td>
-    <td></td>
+    <td>to run locally file has been updated with "- --kubelet-insecure-tls" value in the yaml file</td>
   </tr>
   <tr>
     <td>MultiContainer</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/MultiContainer">ConfigMap Yaml files are available<a><p>
         </td>
     <td></td>
   </tr>
     <tr>
     <td>ResourceRequest</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ResourceRequest">ConfigMap Yaml files are available<a><p>
         </td>
     <td></td>
   </tr>
     <tr>
     <td>Secrets</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Secrets">ConfigMap Yaml files are available<a><p>
         </td>
     <td></td>
   </tr>
     <tr>
     <td>SecurityContext</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/SecurityContext">ConfigMap Yaml files are available<a><p>
         </td>
     <td></td>
   </tr>
     <tr>
     <td>ServiceAccount</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ServiceAccount">ConfigMap Yaml files are available<a><p>
         </td>
     <td></td>
   </tr>
