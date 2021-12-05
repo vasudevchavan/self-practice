@@ -1,12 +1,19 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
 <h1>CKAD Exam preparation materials</h1>
 <p>I am Referring Acloud-Guru and preparing for CKAD exam which can help others</p>
-
-
 <style>
 table, th, td {
-  border:1px solid black;
+  border: 1px solid black;
 }
+
 </style>
+</head>
+<body>
 
 
 <table style="width:80%">
