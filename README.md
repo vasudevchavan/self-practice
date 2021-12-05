@@ -6,8 +6,9 @@
 
 <table>
   <tr>
-    <th>Topcis</th>
+    <th>Topics</th>
     <th>Descriptions</th>
+    <th>Remarks</th>
   </tr>
   <tr>
     <td>Calico</td>
