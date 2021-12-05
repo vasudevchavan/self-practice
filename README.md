@@ -5,10 +5,11 @@
 <!DOCTYPE html>
 <html>
 <h1>CKAD Exam preparation materials</h1>
+
 <p>I am Referring Acloud-Guru and preparing for CKAD exam which can help others</p>
 
 
-<table style="width:80%">
+<table style="width:100%">
   <tr>
     <th>Topics</th>
     <th>Descriptions</th>
@@ -21,47 +22,56 @@
   </tr>
     <tr>
     <td>ConfigMap</td>
-    <td>ConfigMap Yaml files are available</td>
+    <td><p><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available</a><p>
+    </td>
     <td></td>
   </tr>
     <tr>
     <td>Containerlogs</td>
-     <td>ConfigMap Yaml files are available</td>
+     <td><p><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+     </td>
     <td></td>
   </tr>
     <tr>
     <td>Helm</td>
-        <td>ConfigMap Yaml files are available</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        </td>
     <td></td>
   </tr>
     <tr>
     <td>Metrics</td>
-        <td>ConfigMap Yaml files are available</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        </td>
     <td></td>
   </tr>
   <tr>
     <td>MultiContainer</td>
-        <td>ConfigMap Yaml files are available</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        </td>
     <td></td>
   </tr>
     <tr>
     <td>ResourceRequest</td>
-        <td>ConfigMap Yaml files are available</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        </td>
     <td></td>
   </tr>
     <tr>
     <td>Secrets</td>
-        <td>ConfigMap Yaml files are available</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        </td>
     <td></td>
   </tr>
     <tr>
     <td>SecurityContext</td>
-        <td>ConfigMap Yaml files are available</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        </td>
     <td></td>
   </tr>
     <tr>
     <td>ServiceAccount</td>
-        <td>ConfigMap Yaml files are available</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/ConfigMap">ConfigMap Yaml files are available<a><p>
+        </td>
     <td></td>
   </tr>
 </table>
