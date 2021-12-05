@@ -13,41 +13,52 @@
   <tr>
     <td>Calico</td>
     <td>CNI downloaded Yaml file</td>
+    <td>Please refer Calico recent file everytime</td>
+    <td></td>
   </tr>
     <tr>
     <td>ConfigMap</td>
-    <td>CNI downloaded Yaml file</td>
+    <td>ConfigMap Yaml files are available</td>
+    <td></td>
   </tr>
     <tr>
     <td>Containerlogs</td>
-    <td>CNI downloaded Yaml file</td>
+     <td>ConfigMap Yaml files are available</td>
+    <td></td>
   </tr>
     <tr>
     <td>Helm</td>
-    <td>CNI downloaded Yaml file</td>
+        <td>ConfigMap Yaml files are available</td>
+    <td></td>
   </tr>
     <tr>
     <td>Metrics</td>
-    <td>CNI downloaded Yaml file</td>
+        <td>ConfigMap Yaml files are available</td>
+    <td></td>
   </tr>
   <tr>
     <td>MultiContainer</td>
-    <td>CNI downloaded Yaml file</td>
+        <td>ConfigMap Yaml files are available</td>
+    <td></td>
   </tr>
     <tr>
     <td>ResourceRequest</td>
-    <td>CNI downloaded Yaml file</td>
+        <td>ConfigMap Yaml files are available</td>
+    <td></td>
   </tr>
     <tr>
     <td>Secrets</td>
-    <td>CNI downloaded Yaml file</td>
+        <td>ConfigMap Yaml files are available</td>
+    <td></td>
   </tr>
     <tr>
     <td>SecurityContext</td>
-    <td>CNI downloaded Yaml file</td>
+        <td>ConfigMap Yaml files are available</td>
+    <td></td>
   </tr>
     <tr>
     <td>ServiceAccount</td>
-    <td>CNI downloaded Yaml file</td>
+        <td>ConfigMap Yaml files are available</td>
+    <td></td>
   </tr>
 </table>
