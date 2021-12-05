@@ -1,0 +1,11 @@
+apiVersion:  v1
+kind:  Pod
+metadata:
+  name: labeltest
+  labels:
+    app:  sampleapp
+    environment:  test
+spec:
+  containers:
+  - name: labelapp
+    image:  nginx

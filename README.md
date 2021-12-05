@@ -43,7 +43,7 @@
     <td>Metrics</td>
         <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Metrics">ConfigMap Yaml files are available<a><p>
         </td>
-    <td>to run locally file has been updated with "- --kubelet-insecure-tls" value in the yaml file</td>
+    <td>updated "- --kubelet-insecure-tls" value in the yaml file</td>
   </tr>
   <tr>
     <td>MultiContainer</td>
