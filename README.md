@@ -75,4 +75,11 @@
         </td>
     <td></td>
   </tr>
+  <tr>
+    <td>SecurityContext</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Labels">kubectl get pods -l 'app=sampleapp',environment=test or kubectl get pods -l 'app=sampleapp',environment=prod
+<a><p>
+        </td>
+    <td></td>
+  </tr>
 </table>
