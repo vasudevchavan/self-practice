@@ -13,7 +13,7 @@
   <tr>
     <th>Topics</th>
     <th>Descriptions</th>
-    <th>Remarks</th>
+    <th>Remarks or Command to execute</th>
   </tr>
   <tr>
     <td>Calico</td>
