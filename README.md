@@ -107,6 +107,12 @@
     <td></td>
   </tr>
   <tr>
+    <td>Taint</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Taint">ConfigMap Yaml files are available<a><p>
+        </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>New Item</td>
         <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/SecurityContext">ConfigMap Yaml files are available<a><p>
         </td>
