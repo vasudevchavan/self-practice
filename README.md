@@ -77,9 +77,27 @@
   </tr>
   <tr>
     <td>SecurityContext</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Labels">ConfigMap Yaml files are available
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/SecurityContext">ConfigMap Yaml files are available
 <a><p>
         </td>
     <td>kubectl get pods -l 'app=sampleapp',environment=test or kubectl get pods -l 'app=sampleapp',environment=prod</td>
+  </tr>
+  <tr>
+    <td>AmbassadorContainer</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/AmbassadorContainer">ConfigMap Yaml files are available<a><p>
+        </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>preposthook</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/preposthook">ConfigMap Yaml files are available<a><p>
+        </td>
+    <td>Pre&Posthook are very useful in monitoring containers based on events</td>
+  </tr>
+  <tr>
+    <td>New Item</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/SecurityContext">ConfigMap Yaml files are available<a><p>
+        </td>
+    <td></td>
   </tr>
 </table>
