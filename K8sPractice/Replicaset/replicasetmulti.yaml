@@ -1,0 +1,23 @@
+apiVersion:  apps/v1
+kind:  ReplicaSet
+metadata:
+  name:  simple-webapp
+  labels:
+    app:  mainapp
+    function:  Front-end
+spec:
+  replicas:  3
+  selector:
+    matchLabels:
+      app:  mainapp
+  template:
+    metadata:
+      labels:
+        app:  mainapp
+        function:  Front-end
+    spec:
+      containers:
+      - name:  webapp
+        image:  nginx
+      - name:  sidecarpod
+        image:  busybox

@@ -6,7 +6,7 @@
 <html>
 <h1>CKAD Exam preparation materials</h1>
 
-<p>I am Referring Acloud-Guru and preparing for CKAD exam which can help others</p>
+<p>I am Referring Acloud-Guru & Other Video on youtube & preparing for CKAD exam which can help others</p>
 
 
 <table style="width:100%">
@@ -67,7 +67,7 @@
     <td>SecurityContext</td>
         <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/SecurityContext">ConfigMap Yaml files are available<a><p>
         </td>
-    <td></td>
+    <td>SecurityContext defines privilege and access control settings for a Pod or Container</td>
   </tr>
     <tr>
     <td>ServiceAccount</td>
@@ -76,8 +76,8 @@
     <td></td>
   </tr>
   <tr>
-    <td>SecurityContext</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/SecurityContext">ConfigMap Yaml files are available
+    <td>Labels</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Labels">ConfigMap Yaml files are available
 <a><p>
         </td>
     <td>kubectl get pods -l 'app=sampleapp',environment=test or kubectl get pods -l 'app=sampleapp',environment=prod</td>
@@ -93,6 +93,18 @@
         <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/preposthook">ConfigMap Yaml files are available<a><p>
         </td>
     <td>Pre&Posthook are very useful in monitoring containers based on events</td>
+  </tr>
+  <tr>
+    <td>New Item</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/SecurityContext">ConfigMap Yaml files are available<a><p>
+        </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Replicaset</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Replicaset">ConfigMap Yaml files are available<a><p>
+        </td>
+    <td></td>
   </tr>
   <tr>
     <td>New Item</td>

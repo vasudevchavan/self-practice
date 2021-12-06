@@ -1,0 +1,17 @@
+apiVersion:  v1
+kind:  Pod
+metadata:
+  name:  taintpod
+spec:
+  containers:
+  - name:  taintpod
+    image:  nginx
+  tolerations:
+  - key:  "blue"
+    operator:  "Equal"
+    value:  "paint"
+    effect:  "NoSchedule"
+
+
+# kubectl taint node01 blue=paint:NoSchedule -- This command will add taint
+# kubectl taint node controlplane node-role.kubernetes.io/master:NoSchedule- This command will remove taint 
