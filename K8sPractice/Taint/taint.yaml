@@ -15,3 +15,5 @@ spec:
 
 # kubectl taint node01 blue=paint:NoSchedule -- This command will add taint
 # kubectl taint node controlplane node-role.kubernetes.io/master:NoSchedule- This command will remove taint 
+# kubectl taint node 682352d24d1c.mylabserver.com node-role.kubernetes.io/master:NoSchedule-
+                                                  
