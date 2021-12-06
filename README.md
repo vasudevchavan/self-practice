@@ -97,12 +97,6 @@
     <td>Pre&Posthook are very useful in monitoring containers based on events</td>
   </tr>
   <tr>
-    <td>New Item</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/SecurityContext">ConfigMap Yaml files are available<a><p>
-        </td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Replicaset</td>
         <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Replicaset">ConfigMap Yaml files are available<a><p>
         </td>
@@ -115,8 +109,20 @@
     <td></td>
   </tr>
   <tr>
-    <td>New Item</td>
-        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/SecurityContext">ConfigMap Yaml files are available<a><p>
+    <td>Nodeaffinity</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Nodeaffinity">ConfigMap Yaml files are available<a><p>
+        </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Daemonset</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Daemonset">ConfigMap Yaml files are available<a><p>
+        </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Deployment</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Deployment">ConfigMap Yaml files are available<a><p>
         </td>
     <td></td>
   </tr>
