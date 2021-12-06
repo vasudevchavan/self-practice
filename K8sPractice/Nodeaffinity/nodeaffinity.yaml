@@ -1,0 +1,22 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nodeaffinitypod
+spec:
+  containers:
+  - name: nodeaffinitypod
+    image: nginx
+  affinity:
+    nodeAffinity:
+      requiredDuringSchedulingIgnoredDuringExecution:
+        nodeSelectorTerms:
+        - matchExpressions:
+          - key: nature
+            operator: In
+            values:
+            - worker
+
+
+
+# kubectl label node nodename nature:worker
+# kubectl get nodes --show-labels | grep nature
