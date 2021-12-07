@@ -1,9 +1,0 @@
-apiVersion:  v1
-kind:  Pod
-metadata:
-  name:  testingpod
-spec:
-  containers:
-  - name:  testingpod
-    image:  radial/busyboxplus:curl
-    command:  ['sh','-c',"echo we are in && sleep 3600"] 
