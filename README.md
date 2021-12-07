@@ -125,5 +125,10 @@
         <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/Deployment">ConfigMap Yaml files are available<a><p>
         </td>
     <td></td>
+  </tr><tr>
+    <td>k8s default Yaml files</td>
+        <td><a href="https://github.com/vasudevchavan/K8sPractice/tree/master/K8sPractice/k8syaml">ConfigMap Yaml files are available<a><p>
+        </td>
+    <td> These k8s yaml file are available in /etc/kubernetes/manifests and kubelet will be able to pick and create when api server fails </td>
   </tr>
 </table>
