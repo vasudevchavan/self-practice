@@ -8,7 +8,7 @@
 
 <p>I am Referring Acloud-Guru & Other Video on youtube & preparing for CKAD exam which can help others</p>
 
-<p>I have also included few kubectl commands which will be helpful while creating Pods & other k8s objects</p>
+<p>I have also included few kubectl commands which will be helpful while creating Pods & other k8s objects thanks</p>
 
 
 <table style="width:100%">
