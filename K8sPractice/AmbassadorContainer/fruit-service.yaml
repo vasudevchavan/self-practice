@@ -6,8 +6,22 @@ spec:
   containers:
   - name:  legacy-fruit-service
     image:  linuxacademycontent/legacy-fruit-service:1
+    resources:
+      requests:
+        memory:  "64Mi"
+        cpu:  "250m"
+      limits:
+        memory:  "128Mi"
+        cpu:  "500m"
   - name:  haproxy-ambassador
     image:  haproxy:1.7
+    resources:
+      requests:
+        memory:  "64Mi"
+        cpu:  "250m"
+      limits:
+        memory:  "128Mi"
+        cpu:  "500m"
     ports:
     - containerPort:  80
     volumeMounts:
