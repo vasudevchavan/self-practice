@@ -1,0 +1,63 @@
+Billing was around 80K
+In which MS SQL Server was billed around 45K. Postgress/ AWS Arora / AWS RDS
+
+NAT Gateway -- 
+            -- VPC End Point.
+
+When  to use NAT Gateway and how VPC end point communication can save cost and establish more secure communication
+
+Docker images are in Harbor Internally on a EC2 Instance.
+
+*** Always use Bring your own license and always use OS from AMI ***
+    *** AWS RDS is more recommended ***
+        *** Saves People resources , No maintanence and Support backed up AWS ***
+
+*** SQL Server Alternative --- AWS RDS ***
+
+*** Support Cost also need to be considered and also think to reduce the cost *** 
+
+*** Cloud watch is also billable and hence explore to move to ELK stack *** 
+
+*** SAAS Kubernetes must always to be latest to reduce cost incase of k8s version support false under extend support***
+
+*** Backup Plans
+        Daily Incremental.
+        Monthly Full snapshot.
+        Retention Period.
+        Backup selection  -- Backup - YES keyvalue Pair
+
+*** EC2 Instance type and catagories and when to use which one.
+
+*** EKS ---
+        Karpenter.
+        Enable Node auto scaling operation ** Analyse Effect on logging.
+        PDB
+        Pod Spread.
+        Pod Descheduler.
+
+
+*** Cost explore extensive Use ***
+    ** trendvise Analyse
+    ** Saving Plan service need to be purchased **
+    ** Coverage Report -- .
+
+    ** Reserved Instance **
+    ** Capacity Reservation **
+   ** Savings Plan ** 
+
+*** Cost optimization ***
+    AWS Compute optimizer 
+
+
+*** EBS type
+    GP3 
+    ** Snapshot version and maintenance 
+    ** IOPS ThroughPut
+
+
+*** Certificate Manager 
+
+
+*** CSPM Report / Audit Report.
+    Trend Micro -- https://www.trendmicro.com/cloudoneconformity/
+
